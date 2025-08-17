@@ -1,4 +1,4 @@
-package com.alura.literatura.cli;
+package com.alura.literatura.menu;
 
 import com.alura.literatura.Repository.AutorRepository;
 import com.alura.literatura.Repository.LibroRepository;
